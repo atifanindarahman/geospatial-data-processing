@@ -1,0 +1,15 @@
+
+name: geospatial-demo
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - geopandas
+  - rasterio
+  - pyproj
+  - shapely
+  - gdal
+  - matplotlib
+  - jupyterlab
